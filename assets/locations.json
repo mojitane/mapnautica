@@ -1,0 +1,489 @@
+[
+ {
+   "coordinates": "-800 80 -1055",
+   "name": "Degasi Seabase on Floating Island",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-760 15 -1115",
+   "name": "Degasi Seabase on Floating Island",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-705 80 -1165",
+   "name": "Degasi Seabase on Floating Island",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "95 -250 -375",
+   "name": "Degasi Seabase in the Jellyshroom Cave",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-680 -515 -941",
+   "name": "Degasi Seabase in the Deep Grand Reef",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "430 -90 1190",
+   "name": "Quarantine Enforcement Platform",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-380 -750 410",
+   "name": "Disease Research Facility in the Lost River",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-75 -1182 5",
+   "name": "Alien Thermal Plant in the Lava Castle",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "200 -1440 -222",
+   "name": "Primary Containment Facility",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-905 -300 -775",
+   "name": "Sparse Reef Alien Sanctuary",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-589 -555 1482",
+   "name": "Northern Blood Kelp zone Alien Sanctuary",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-1190 -380 1128",
+   "name": "Dunes Alien Sanctuary",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-1111 -685 -655",
+   "name": "Lost River Alien Laboratory",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-750 -239 435",
+   "name": "Mushroom Forest Warp Gate Cache",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-81 -290 -1360",
+   "name": "Crag Field Warp Gate Cache",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "-931 -611 991",
+   "name": "Ghost Forest Warp Gate Cache",
+   "category": "seabase"
+ },
+ {
+   "coordinates": "1383 -296 757",
+   "name": "Bulb Zone Warp Gate Cache",
+   "category": "seabase"
+ },
+
+
+ {
+   "coordinates": "425 -47 -503",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "609 -90 -637",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "888 -112 -657",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "686 -224 -1034",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "1375 -83 -448",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "1575 -250 -60",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "1436 -186 218",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "1112 -87 289",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "1074 -222 1220",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "965 -243 1593",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "480 -138 1002",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "648 -342 1408",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "692 -298 1636",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "1266 -364 1416",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1110 -116 21",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1380 -272 288",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1489 -284 2",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1741 -305 96",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1570 -290 547",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1380 -294 954",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1786 -206 858",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1328 -306 1149",
+   "name": "Reaper Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-432 -291 -1326",
+   "name": "Ghost Leviathan(Adult) spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1102 -273 -1323",
+   "name": "Ghost Leviathan(Adult) spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-616 -306 1431",
+   "name": "Ghost Leviathan(Adult) spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-779 -688 -261",
+   "name": "Ghost Leviathan(Juvenile) spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-885 -591 861",
+   "name": "Ghost Leviathan(Juvenile) spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "252 -833 742",
+   "name": "Ghost Leviathan(Juvenile) spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-100 -1100 -128",
+   "name": "Sea Dragon Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-36 -1146 -320",
+   "name": "Sea Dragon Leviathan spawn",
+   "category": "spawn"
+ },
+ {
+   "coordinates": "-1445 -330 720",
+   "name": "Entrance to broken-off wreck in the Dunes (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1405 -330 720",
+   "name": "Entrance to broken-off wreck in the Dunes (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1395 -320 710",
+   "name": "Entrance to broken-off wreck in the Dunes (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1215 -350 -380",
+   "name": "Entrance to broken-off wreck in the Blood Kelp Zone (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1205 -330 -390",
+   "name": "Entrance to broken-off wreck in the Blood Kelp Zone (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1160 -185 -740",
+   "name": "Entrance to broken-off wreck in the Sea Treader's Path (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1155 -160 -740",
+   "name": "Entrance to broken-off wreck in the Sea Treader's Path (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-1120 -185 -735",
+   "name": "Entrance to broken-off wreck in the Sea Treader's Path",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-900 -420 -1430",
+   "name": "Entrance to broken-off wreck in the Deep Grand Reef (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-885 -440 -1415",
+   "name": "Entrance to broken-off wreck in the Deep Grand Reef (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-885 -420 -1440",
+   "name": "Entrance to broken-off wreck in the Deep Grand Reef (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-645 -110 775",
+   "name": "Entrance to broken-off wreck in the Mushroom Forest",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-625 -70 -15",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-520 -100 -200",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-430 -110 -280",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-405 -55 305",
+   "name": "Entrance to broken-off wreck in the Kelp Forest (outdated data)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-320 -75 255",
+   "name": "Entrance to broken-off wreck in the Kelp Forest",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-280 -265 -795",
+   "name": "Entrance to broken-off wreck in the Deep Grand Reef (2)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-275 -230 -780",
+   "name": "Entrance to broken-off wreck in the Deep Grand Reef (2)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "364 -110 310",
+   "name": "Destroyed Lifepod 8",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-260 -65 5",
+   "name": "Destroyed Lifepod 19",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-170 -30 -225",
+   "name": "Entrance to broken-off wreck between the Grassy Plateaus and the Safe Shallows",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-150 -5 -415",
+   "name": "Destroyed Lifepod 17(outdated data)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-140 -190 850",
+   "name": "Entrance to broken-off wreck on Underwater Islands",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-35 -25 -400",
+   "name": "Entrance to broken-off wreck in the Safe Shallows",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-33 -20 410",
+   "name": "Destroyed Lifepod 3",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "-30 -95 -610",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "20 -20 305",
+   "name": "Destroyed Lifepod 12 (outdated data)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "65 -35 390",
+   "name": "Entrance to broken-off wreck in the Kelp Forest (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "65 -30 385",
+   "name": "Entrance to broken-off wreck in the Kelp Forest (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "710 -1 160",
+   "name": "Destroyed Lifepod 4",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "85 -40 115",
+   "name": "Entrance to broken-off wreck in the Safe Shallows (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "100 -45 130",
+   "name": "Entrance to broken-off wreck in the Safe Shallows (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "165 -30 -255",
+   "name": "Entrance to broken-off wreck in the Safe Shallows (2)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "175 -30 -250",
+   "name": "Entrance to broken-off wreck in the Safe Shallows (2)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "265 -55 -410",
+   "name": "Destroyed Lifepod 13",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "305 -100 450",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "320 -90 450",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "320 -55 -335",
+   "name": "Entrance to broken-off wreck in the Kelp Forest",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "335 -90 435",
+   "name": "Entrance to broken-off wreck in the Grassy Plateaus (1)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "370 -15 -200",
+   "name": "Entrance to broken-off wreck in the Safe Shallows",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "685 -335 1195",
+   "name": "Entrance to broken-off wreck in the Mountains",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "690 -25 -35",
+   "name": "Small wrecks near Aurora",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "575 -25 -40",
+   "name": "Small wrecks near Aurora",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "660 -45 90",
+   "name": "Small wrecks near Aurora",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "585 -5 -100",
+   "name": "Small wrecks near Aurora",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "640 -130 -580",
+   "name": "Small wrecks near Aurora",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "840 -55 -10",
+   "name": "Post-explosion tunnel entrance leading the Aurora's power generator room (in latest versions this entrance has been blocked off)",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "925 -195 605",
+   "name": "Entrance to broken-off wreck in the Bulb Zone",
+   "category": "wreck"
+ },
+ {
+   "coordinates": "1000 40 110",
+   "name": "Post-explosion doorway leading to the Aurora's power generator room",
+   "category": "wreck"
+ }
+]
